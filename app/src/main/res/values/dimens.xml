@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="route_overview_padding_top">100dp</dimen>
+    <dimen name="route_overview_padding_bottom">150dp</dimen>
+    <dimen name="route_overview_padding_left">50dp</dimen>
+    <dimen name="route_overview_padding_right">50dp</dimen>
+</resources>

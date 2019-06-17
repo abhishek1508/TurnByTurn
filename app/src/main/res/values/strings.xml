@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TurnByTurn</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYWJoaXNoaWtoYTE1MDgiLCJhIjoiY2p3aWU2NXo1MDB0ZDN5bzF1ZG02MG10ZSJ9.bclwlXuYRkDpDhWFQ6ywug</string>
+</resources>
