@@ -25,6 +25,7 @@ import com.mapbox.services.android.navigation.v5.navigation.MapboxNavigation
 import com.mapbox.services.android.navigation.v5.routeprogress.RouteProgress
 import kotlinx.android.synthetic.main.activity_main.*
 
+const val LOCATION_PERMISSION_REQUEST = 10001
 class TurnByTurn : AppCompatActivity(), TurByTurnController.TurnByTurnView {
 
     private var map: NavigationMapboxMap? = null
